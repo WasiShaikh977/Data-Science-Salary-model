@@ -9,7 +9,11 @@
 
 ### Resources
 **Python Version:** 3.11
+
+
 **Packages:** pandas, matplotlib, seaborn, numpy, sklearn, wordcloudm nltk
+
+
 **Tutorial:** [https://youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&si=UEx182w7ZJc_lHu1](https://youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&si=UEx182w7ZJc_lHu1)
 
 
